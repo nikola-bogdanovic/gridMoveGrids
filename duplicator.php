@@ -3,7 +3,7 @@
 	$numberOfMonitors = 2;                       // EDIT
 	
 	$inputFile = fopen("inputFile.txt", "r");    // EDIT
-	$outputFile = fopen("nbGrid-1-4.grid", "w"); // EDIT
+	$outputFile = fopen("nbGrid-1-6.grid", "w"); // EDIT
 	
 	$fileLineArray = [];
 	$outputLineArray = [];
