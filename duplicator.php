@@ -1,9 +1,9 @@
 <?php
 	
-	$numberOfMonitors = 1;                      // EDIT
+	$numberOfMonitors = 2;                       // EDIT
 	
 	$inputFile = fopen("inputFile.txt", "r");    // EDIT
-	$outputFile = fopen("nbGrid-1-3.grid", "w"); // EDIT
+	$outputFile = fopen("nbGrid-1-4.grid", "w"); // EDIT
 	
 	$fileLineArray = [];
 	$outputLineArray = [];
