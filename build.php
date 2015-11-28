@@ -1,9 +1,9 @@
 <?php
 	
-	$numberOfMonitors = 2;                       // EDIT
+	$numberOfMonitors = 2;                          // EDIT THIS ACCORDING TO YOUR NUMBER OF MONITORS
 	
-	$inputFile = fopen("inputFile.txt", "r");    // EDIT
-	$outputFile = fopen("nbGrid-1-6.grid", "w"); // EDIT
+	$inputFile = fopen("inputFile.txt", "r");       // BEST LEAVE AS IS
+	$outputFile = fopen("inDevelopment.grid", "w"); // BEST LEAVE AS IS
 	
 	$fileLineArray = [];
 	$outputLineArray = [];
@@ -30,7 +30,7 @@
 	$header = ";-------------------------------------------------------------------------
 ; Created:   " . date("Y-m-d") . "
 ; Grid Name: nbGrid
-; Version:   1.2
+; Version:   NEWVERSION
 ; Monitors:  " . $numberOfMonitors . "
 ; Groups:    " . $counter . "
 ; By:        Nikola Bogdanovic
