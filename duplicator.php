@@ -1,9 +1,10 @@
 <?php
 	
-	$inputFile = fopen("inputFile.txt", "r");
-	$outputFile = fopen("nbGrid-1-3.grid", "w");
+	$numberOfMonitors = 10;                      // EDIT
 	
-	$numberOfMonitors = 10;
+	$inputFile = fopen("inputFile.txt", "r");    // EDIT
+	$outputFile = fopen("nbGrid-1-3.grid", "w"); // EDIT
+	
 	$fileLineArray = [];
 	$outputLineArray = [];
 	$counter = 1;
@@ -21,7 +22,6 @@
 				$counter += 1;
 			}
 			$outputLineArray[] = str_replace("Monitor1", "Monitor" . $i, $outputLine);
-			//fwrite($outputFile, str_replace("Monitor1", "Monitor" . $i, $outputLine));
 		}
 	}
 	
