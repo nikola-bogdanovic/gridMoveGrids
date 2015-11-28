@@ -1,3 +1,17 @@
+;-------------------------------------------------------------------------
+; Created:   2015-11-28
+; Grid Name: nbGrid
+; Version:   1.2
+; Monitors:  1
+; Groups:    226
+; By:        Nikola Bogdanovic
+; 
+; Based on xipergrid2.grid and an amazing idea and work put into it.
+;-------------------------------------------------------------------------
+
+[Groups]
+NumberOfGroups = 226
+
 [1]
 TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
 TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
@@ -2257,3 +2271,4 @@ GridTop       = [Monitor1Top]  + [Monitor1Height] *  3/12
 GridBottom    = [Monitor1Top]  + [Monitor1Height] *  9/12
 GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
+

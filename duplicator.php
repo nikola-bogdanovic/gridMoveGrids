@@ -1,6 +1,6 @@
 <?php
 	
-	$numberOfMonitors = 10;                      // EDIT
+	$numberOfMonitors = 1;                      // EDIT
 	
 	$inputFile = fopen("inputFile.txt", "r");    // EDIT
 	$outputFile = fopen("nbGrid-1-3.grid", "w"); // EDIT
