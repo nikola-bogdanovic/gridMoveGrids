@@ -1,6 +1,6 @@
 <?php
 	
-	$numberOfMonitors = 1;                          // EDIT THIS ACCORDING TO YOUR NUMBER OF MONITORS
+	$numberOfMonitors = 2;                          // EDIT THIS ACCORDING TO YOUR NUMBER OF MONITORS
 	
 	$inputFile = fopen("inputFile.txt", "r");       // BEST LEAVE AS IS
 	$outputFile = fopen("inDevelopment.grid", "w"); // BEST LEAVE AS IS
