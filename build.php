@@ -10,7 +10,9 @@
 	$counter = 1;
 	
 	while ($line = fgets($inputFile)) {
+		if (trim($line) != "") {
 			$fileLineArray[] = $line;
+		}
 	}
 	
 	$fileLineArray[] = "\n\n";
@@ -18,7 +20,7 @@
 	for ($i = 1; $i <= $numberOfMonitors; $i++) {
 		foreach ($fileLineArray as $outputLine) {
 			if (substr($outputLine, 0, 1) == "[") {
-				$outputLine = "[" . $counter . "]\n";
+				$outputLine = "\n[" . $counter . "]\n";
 				$counter += 1;
 			}
 			$outputLineArray[] = str_replace("Monitor1", "Monitor" . $i, $outputLine);
@@ -39,7 +41,7 @@
 ;-------------------------------------------------------------------------
 
 [Groups]
-NumberOfGroups = " . $counter . "\n\n";
+NumberOfGroups = " . $counter . "\n";
 	
 	fwrite($outputFile, $header);
 	
