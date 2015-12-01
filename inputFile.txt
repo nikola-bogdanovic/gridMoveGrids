@@ -1,6 +1,6 @@
 [1]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 0/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 1/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -8,14 +8,9 @@ GridBottom    = [Monitor1Top]  + [Monitor1Height] *  3/12
 GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  3/12
 
-
-
-
-
-
 [2]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 1/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 2/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -24,8 +19,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  4/12
 
 [3]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 2/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 3/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -34,8 +29,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [4]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 3/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 4/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -44,8 +39,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [5]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 4/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -54,8 +49,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [6]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 0/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 1/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -64,8 +59,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  3/12
 
 [7]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 1/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 2/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -74,8 +69,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  4/12
 
 [8]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 2/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 3/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -84,8 +79,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [9]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 3/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 4/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -94,8 +89,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [10]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 4/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -104,8 +99,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [11]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 0/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 1/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -114,8 +109,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  3/12
 
 [12]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 1/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 2/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -124,8 +119,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  4/12
 
 [13]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 2/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 3/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -134,8 +129,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [14]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 3/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 4/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -144,8 +139,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [15]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 4/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -154,8 +149,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [16]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 0/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 1/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -164,8 +159,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  3/12
 
 [17]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 1/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 2/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -174,8 +169,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  4/12
 
 [18]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 2/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 3/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -184,8 +179,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [19]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 3/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 4/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -194,8 +189,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [20]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 4/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -204,8 +199,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [21]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 0/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 1/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -214,8 +209,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  3/12
 
 [22]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 1/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 2/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -224,8 +219,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  4/12
 
 [23]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 2/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 3/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -234,8 +229,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [24]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 3/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 4/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -244,8 +239,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [25]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 4/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -254,8 +249,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [26]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 19/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 20/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -264,8 +259,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  9/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [27]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 18/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 19/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -274,8 +269,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  8/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [28]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 17/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 18/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -284,8 +279,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [29]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 16/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 17/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -294,8 +289,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [30]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 15/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 16/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -304,8 +299,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [31]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 19/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 20/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -314,8 +309,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  9/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [32]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 18/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 19/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -324,8 +319,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  8/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [33]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 17/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 18/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -334,8 +329,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [34]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 16/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 17/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -344,8 +339,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [35]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 15/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 16/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -354,8 +349,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [36]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 19/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 20/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -364,8 +359,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  9/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [37]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 18/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 19/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -374,8 +369,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  8/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [38]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 17/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 18/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -384,8 +379,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [39]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 16/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 17/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -394,8 +389,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [40]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 15/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 16/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -404,8 +399,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [41]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 19/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 20/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -414,8 +409,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  9/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [42]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 18/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 19/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -424,8 +419,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  8/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [43]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 17/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 18/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -434,8 +429,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [44]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 16/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 17/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -444,8 +439,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [45]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 15/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 16/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -454,8 +449,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [46]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 19/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 20/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -464,8 +459,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  9/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [47]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 18/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 19/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -474,8 +469,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  8/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [48]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 17/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 18/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -484,8 +479,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [49]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 16/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 17/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -494,8 +489,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [50]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 15/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 16/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1004,8 +999,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [101]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 7.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1014,8 +1009,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [102]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 7.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1024,8 +1019,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [103]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 7.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1034,8 +1029,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [104]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 7.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1044,8 +1039,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [105]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 7.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1054,8 +1049,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  6/12
 
 [106]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1064,8 +1059,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [107]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1074,8 +1069,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [108]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1084,8 +1079,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [109]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1094,8 +1089,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [110]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 8.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1104,8 +1099,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  4/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  8/12
 
 [111]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1114,8 +1109,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [112]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1124,8 +1119,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [113]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1134,8 +1129,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [114]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1144,8 +1139,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [115]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 9.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1154,8 +1149,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  3/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [116]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1164,8 +1159,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [117]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1174,8 +1169,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [118]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1184,8 +1179,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [119]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1194,8 +1189,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [120]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 10.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1204,8 +1199,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  0/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  12/12
 
 [121]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 0/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 1/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 12.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1214,8 +1209,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [122]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 1/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 2/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 12.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1224,8 +1219,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [123]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 2/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 3/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 12.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1234,8 +1229,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [124]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 3/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 4/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 12.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
@@ -1244,8 +1239,8 @@ GridLeft      = [Monitor1Left] + [Monitor1Width]  *  6/12
 GridRight     = [Monitor1Left] + [Monitor1Width]  *  9/12
 
 [125]
-TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/20
-TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/20
+TriggerTop    = [Monitor1Top]  + [Monitor1Height] * 4/25
+TriggerBottom = [Monitor1Top]  + [Monitor1Height] * 5/25
 TriggerLeft   = [Monitor1Left] + [Monitor1Width]  * 11.5/20
 TriggerRight  = [Monitor1Left] + [Monitor1Width]  * 12.5/20
 GridTop       = [Monitor1Top]  + [Monitor1Height] *  0/12
