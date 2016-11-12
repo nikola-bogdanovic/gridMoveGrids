@@ -1,25 +1,25 @@
 <?php
 	
-	$numberOfMonitors = 1;                          // EDIT THIS ACCORDING TO YOUR NUMBER OF MONITORS
+	$numberOfMonitors = 1; // EDIT THIS ACCORDING TO YOUR NUMBER OF MONITORS
 	
-	$inputFile = fopen("inputFile.txt", "r");       // BEST LEAVE AS IS
+	$inputFile      = fopen("inputFile.txt", "r"); // BEST LEAVE AS IS
 	$outputFileName = "inDevelopment-" . time() . ".grid";
-	$outputFile = fopen($outputFileName, "w"); // BEST LEAVE AS IS
+	$outputFile     = fopen($outputFileName, "w"); // BEST LEAVE AS IS
 	
-	$fileLineArray = [];
-	$outputLineArray = [];
-	$counter = 1;
+	$inputFileLineArray = [];
+	$outputLineArray    = [];
+	$counter            = 1;
 	
-	while ($line = fgets($inputFile)) {
-		if (trim($line) != "") {
-			$fileLineArray[] = $line;
+	while ($inputFileLine = fgets($inputFile)) {
+		if (trim($inputFileLine) != "") {
+			$inputFileLineArray[] = $inputFileLine;
 		}
 	}
 	
-	$fileLineArray[] = "\n\n";
+	$inputFileLineArray[] = "\n\n";
 	
 	for ($i = 1; $i <= $numberOfMonitors; $i++) {
-		foreach ($fileLineArray as $outputLine) {
+		foreach ($inputFileLineArray as $outputLine) {
 			if (substr($outputLine, 0, 1) == "[") {
 				$outputLine = "\n[" . $counter . "]\n";
 				$counter += 1;
